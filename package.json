@@ -1,0 +1,14 @@
+{
+  "name": "mrmueller-express",
+  "version": "1.0.0",
+  "description": "https://medium.com/@svbala99/set-up-a-simple-express-server-and-deploy-it-for-free-on-render-com-1d770722d235",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
